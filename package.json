@@ -1,0 +1,19 @@
+{
+  "name": "toogerbot",
+  "version": "1.0.0",
+  "description": "Minecraft bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "hpfxd",
+  "license": "MIT",
+  "dependencies": {
+    "live-plugin-manager": "^0.12.0",
+    "mineflayer": "^2.7.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "semver": "^5.6.0",
+    "unzipper": "^0.9.4"
+  }
+}
